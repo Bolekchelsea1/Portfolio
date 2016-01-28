@@ -1,0 +1,64 @@
+div{
+  border: 2px solid black;
+  background-color: #333333;
+  text-align: left;
+  height:100px;
+  width:950px;
+  text-align: center;
+  display: inline-block;
+  float: left;
+}
+h1{
+  color:red;
+  font-family: "Libian SC";
+
+}
+
+.menu{
+  background-color: #1B253B;
+  border: 2px solid black;
+  height: 607px;
+  width: 200px;
+  float: left;
+
+
+}
+
+a{
+  color:firebrick;
+  font-family: "Euphemia UCAS";
+  text-decoration: none;
+}
+
+.tabela{
+  height: 510px;
+  width: 950px;
+  background-color: none;
+  margin-top:-510px;
+
+}
+img{
+  border:10px solid black;
+  height: 225px;
+  width: 450px;
+}
+h3{
+  font-family: "Euphemia UCAS";
+}
+.foto{
+  border:none;
+  height: 320px;
+  width: 220px;
+  text-align: left;
+}
+#welcom{
+  border:0px solid black;
+  height: 50px;
+  width: 50px;
+  float:left;
+}
+.obrazek_tytul{
+  border: 0px;
+  height: 100px;
+  width: 100px;
+}
